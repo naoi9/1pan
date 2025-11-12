@@ -3,4 +3,8 @@ plugins {
     alias(libs.plugins.android.application) apply false
     alias(libs.plugins.kotlin.android) apply false
     alias(libs.plugins.kotlin.compose) apply false
+    // 次の行を追加して、Google Servicesプラグインを宣言します
+    alias(libs.plugins.googleGmsGoogleServices) apply false // 正しい呼び出し方
+
 }
+
