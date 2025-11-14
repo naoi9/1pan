@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "768016273727",
+    "project_id": "parkgo-b90e9",
+    "storage_bucket": "parkgo-b90e9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768016273727:android:f44ad20eeb61e5f562038a",
+        "android_client_info": {
+          "package_name": "com.example.parkgo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByxAiaDYmrbB5ddZJH03l30NS8_lMqhho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
